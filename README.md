@@ -2,13 +2,16 @@
 
 DIRECT MESSAGE
 <br/>
-<img width="960" alt="image" src="https://github.com/pratibha2001/medical-pager/assets/85070588/24398532-15df-469d-bb81-4c7b37e08cfc">
+![image](https://github.com/pratibha2001/medical-pager/assets/85070588/12be9d75-41ed-47cb-94e1-e376b6824539)
+
 
 CHANNELS
 <br/>
-<img width="960" alt="image" src="https://github.com/pratibha2001/medical-pager/assets/85070588/9a7dad3b-3169-4d6e-ad80-fa4e064c7bd3">
+![image](https://github.com/pratibha2001/medical-pager/assets/85070588/3d9bde5c-cc62-4248-9ca9-b794c1211013)
+
 
 ADD MEMBERS TO CHANNEL
 <br/>
-<img width="960" alt="image" src="https://github.com/pratibha2001/medical-pager/assets/85070588/9de229e4-10d2-4516-86ed-07600071b934">
+![image](https://github.com/pratibha2001/medical-pager/assets/85070588/9df35912-138f-45d4-b062-0d6af3d8f5e4)
+
 
