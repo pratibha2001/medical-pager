@@ -1,4 +1,4 @@
-# Medical Pager Chat App
+# MedComConnect
 
 DIRECT MESSAGE
 <br/>
